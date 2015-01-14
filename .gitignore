@@ -52,3 +52,8 @@ docs/_build/
 
 # PyBuilder
 target/
+
+#Virtual Environment
+virtpy/
+
+config.py
