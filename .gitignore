@@ -61,3 +61,5 @@ config.py
 #Pycharm project and sqlite db
 .idea/
 db.sqlite3
+static/api/admin/
+static/api/rest_framework/
